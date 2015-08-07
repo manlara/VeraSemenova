@@ -1,0 +1,28 @@
+{
+  "name": "\"primavera-website\",",
+  "version": "\"1.0.0,\"",
+  "homepage": "https://github.com/zinaidus/Hello-World",
+  "authors": [
+    "zinaidus <zi_zind@hotmail.com>"
+  ],
+  "description": "\"bootstrap\", \"javascript\",o",
+  "main": "\"index.html\",",
+  "keywords": [
+    "bootstrap",
+    "jquery"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "jasny-bootstrap":"latest",
+    "jquery": "~1.11"
+  }
+}
